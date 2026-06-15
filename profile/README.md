@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/highfrontierlogistics/orbital-tender/main/renders/hero.png" alt="Orbital Tender" width="100%">
+
 # High Frontier Logistics
 
 An orbital tender goes fully open source on **July 10, 2026 · 00:00 UTC**
